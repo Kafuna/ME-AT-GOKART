@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Hey </title>
+	<title>New Page </title>
 	<link href="yellowscreen.css" rel="stylesheet" type="text/css" />
 	
 	
